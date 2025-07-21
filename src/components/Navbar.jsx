@@ -13,7 +13,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="navbar-container">
         <Link to="/" className="navbar-logo">
-          Sanitization Management Syatem
+          Sanitization Management System
         </Link>
         
         <div className="menu-icon" onClick={toggleMenu}>
