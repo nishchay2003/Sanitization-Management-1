@@ -86,8 +86,8 @@ const AdminLogin = () => {
         
         <div className="login-footer">
           <p>Demo credentials:</p>
-          <p>Email: admin@saniclean.com</p>
-          <p>Password: admin123</p>
+          <p></p>
+          <p></p>
         </div>
       </div>
     </div>
